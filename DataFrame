@@ -1,0 +1,2 @@
+#Creating a data frame 
+df = data.frame(EMP_name = c("Vasu","Lakshmi"), JOB_title = c("Site engineer1", "Site engineer2"))
